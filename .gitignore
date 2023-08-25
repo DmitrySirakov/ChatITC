@@ -1,0 +1,8 @@
+/.env
+/services/__pycache__/
+/handlers/__pycache__/
+/.history
+/__pycache__
+venv
+dppcommands-7a27921d2259.json
+.DS_Store
