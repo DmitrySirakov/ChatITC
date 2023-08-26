@@ -45,7 +45,7 @@
 1. Клонируйте репозиторий:
 
 ```
-git clone [URL репозитория]
+git clone https://github.com/DmitrySirakov/ChatITC.git
 ```
 
 2. Установите необходимые зависимости:
