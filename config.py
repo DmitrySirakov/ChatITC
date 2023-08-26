@@ -8,5 +8,5 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-TOKEN = os.getenv('TOKEN')
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+TOKEN = os.environ('TOKEN')
+OPENAI_API_KEY = os.environ('OPENAI_API_KEY')
